@@ -1,0 +1,179 @@
+//Tader Objects 
+
+<Object> 			SurvivorM_Niki
+<ObjectPosition>	4304.77,   385.147,    3035.7
+<ObjectOrientation>	0,0,			0
+<ObjectAttachment>	WaterBottle
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	MedicalScrubsHat_White
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	MedicalScrubsShirt_White
+<ObjectAttachment>	MedicalScrubsPants_Blue
+<ObjectAttachment>	NBCBootsGray
+
+<Object> 			SurvivorF_Maria
+<ObjectPosition>	4308.25,  385.113,    3027.6
+<ObjectOrientation>	0,0,			0
+<ObjectAttachment>	Screwdriver
+<ObjectAttachment>	Shovel
+<ObjectAttachment>	WorkingGloves_Yellow
+<ObjectAttachment>	ConstructionHelmet_Yellow
+<ObjectAttachment>	Shirt_RedCheck
+<ObjectAttachment>	CanvasPants_Beige
+<ObjectAttachment>	WorkingBoots_Yellow
+
+<Object> 			SurvivorM_Hassan
+<ObjectPosition>	4314.25,  385.152,    3021.29
+<ObjectOrientation>	0,	0,			0
+<ObjectAttachment>	FirefighterAxe
+<ObjectAttachment>	AKM
+<ObjectAttachment>	AK_WoodHndgrd
+<ObjectAttachment>	AK_FoldingBttstck
+<ObjectAttachment>	KobraOptic
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	TacticalGoggles
+<ObjectAttachment>	TacticalGloves_Green
+<ObjectAttachment>	GorkaHelmet
+<ObjectAttachment>	BandanaMask_CamoPattern
+<ObjectAttachment>	UKAssVest_Camo
+<ObjectAttachment>	GorkaEJacket_Summer
+<ObjectAttachment>	GorkaPants_Summer
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+
+<Object> 			SurvivorM_Elias
+<ObjectPosition>	4327.55,  385.152,    3026.95
+<ObjectOrientation>	0,	0,			0
+<ObjectAttachment>	AmmoBox_9x19_25rnd
+<ObjectAttachment>	NailedBaseballBat
+<ObjectAttachment>	MP5K
+<ObjectAttachment>	MP5_RailHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	MP5k_StockBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	MP5_Compensator
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	BallisticHelmet_Green
+<ObjectAttachment>	BandanaMask_CamoPattern
+<ObjectAttachment>	HighCapacityVest_Olive
+<ObjectAttachment>	GorkaEJacket_Summer
+<ObjectAttachment>	GorkaPants_Summer
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	MilitaryBoots_Black
+
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	4325.77,  385.141,    3034.87
+<ObjectOrientation>	0,	0,			0
+<ObjectAttachment>	AviatorGlasses
+<ObjectAttachment>	ZmijovkaCap_Blue
+<ObjectAttachment>	Hoodie_Black
+<ObjectAttachment>	Jeans_BlueDark
+<ObjectAttachment>	Sneakers_White
+
+<Object> 			SurvivorM_Jose
+<ObjectPosition>	4322.39,	385.15,	3042.93
+<ObjectOrientation>	0,	0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	4313.816406, 384.849518, 3060.230469
+<ObjectOrientation>	-162.978363, 0.000000, -0.000000
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	LeatherShirt_Brown
+<ObjectAttachment>	LeatherPants_Brown
+<ObjectAttachment>	LeatherBelt_Brown
+<ObjectAttachment>	LeatherHat_Brown
+<ObjectAttachment>	LeatherJacket_Brown
+<ObjectAttachment>	LeatherGloves_Brown
+<ObjectAttachment>	LeatherStorageVest_Brown
+<ObjectAttachment>	LeatherSack_Brown
+<ObjectAttachment>	MilitaryBoots_Black
+
+<Object> 			SurvivorF_Frida
+<ObjectPosition>	4309.756836, 384.758362, 3044.185547
+<ObjectOrientation>	113.598450, 0.000000, -0.000000
+<ObjectAttachment>	ThickFramesGlasses
+<ObjectAttachment>	WomanSuit_Black
+<ObjectAttachment>	SlacksPants_Black
+<ObjectAttachment>	DressShoes_Black
+-------------------------------------------------------------------------------------
+
+<Object>			DC_BankingATM
+<ObjectPosition>	4315.114258, 384.758362, 3034.271484
+<ObjectOrientation>	120.935707, 0.000000, -0.000000
+
+<Object>			DC_BankingATM
+<ObjectPosition>	4315.523926, 384.758362, 3033.325684
+<ObjectOrientation>	31.751820, 0.000000, -0.000000
+
+<Object>			DC_BankingATM
+<ObjectPosition>	4316.467773, 384.758362, 3033.724854
+<ObjectOrientation>	-66.626762, 0.000000, 0.000000
+
+<Object>			DC_BankingATM
+<ObjectPosition>	4316.065918, 384.758362, 3034.683838
+<ObjectOrientation>	-156.265549, 0.000000, -0.000000
+
+<Object>			BarrelHoles_Red
+<ObjectPosition>	4309.7,	834.71,	3049.8
+<ObjectOrientation>	0,	0,		0
+
+<Object>			BarrelHoles_Blue
+<ObjectPosition>	4313.3,	384.71,	3039.8
+<ObjectOrientation>	0,	0,	0
+
+<Object>			BarrelHoles_Green
+<ObjectPosition>	4313.3,	384.71,	3039.8
+<ObjectOrientation>	0,	0,	0
+
+//Livonia init.c Building Location for BM Trader
+
+SpawnObject( "Land_Tisy_RadarPlatform_Top", "4313.419922 377.433990 3039.760010", "-22.999998 0.000000 0.000000" );
+SpawnObject( "bldr_cementworks_silobig1bridge", "4324.399902 383.497009 3014.080078", "67.000000 0.000000 0.000000" );
+SpawnObject( "bldr_cementworks_silobig1bridge", "4331.649902 383.500000 2997.100098", "-112.999992 0.000000 0.000000" );
+SpawnObject( "bldr_Target_Concrete_Ramp", "4337.259766 383.112000 2982.689941", "159.000000 -5.000000 0.000000" );
+SpawnObject( "Land_Mil_Tower_Small", "4323.029785 388.424011 3023.939941", "158.000000 0.000000 0.000000" );
+SpawnObject( "Land_Mil_Tower_Small", "4318.109863 388.424011 3021.929932", "158.000000 0.000000 0.000000" );
+SpawnObject( "Land_BusStation_building", "4324.700195 385.484009 3025.850098", "-112.999992 0.000000 0.000000" );
+SpawnObject( "Land_BusStation_building", "4311.540039 385.484009 3020.280029", "-112.999992 0.000000 0.000000" );
+SpawnObject( "Land_BusStation_building", "4307.229980 385.445007 3030.250000", "-22.999998 0.000000 0.000000" );
+SpawnObject( "Land_BusStation_building", "4326.819824 385.472992 3032.149902", "157.000000 0.000000 0.000000" );
+SpawnObject( "Land_BusStation_building", "4323.370117 385.481995 3040.270020", "157.000000 0.000000 0.000000" );
+SpawnObject( "Land_BusStation_building", "4303.779785 385.479004 3038.360107", "-22.999998 0.000000 0.000000" );
+SpawnObject( "bldr_tank_small_gas", "4301.229980 385.360992 3042.290039", "-24.000000 0.000000 0.000000" );
+SpawnObject( "Land_FuelStation_Feed_Enoch", "4300.240234 385.420013 3044.500000", "68.000000 0.000000 0.000000" );
+SpawnObject( "Land_Farm_WaterTower_Small", "4298.799805 389.230988 3050.580078", "157.000000 0.000000 0.000000" );
+SpawnObject( "Land_Misc_Well_Pump_Yellow", "4301.310059 385.479004 3053.679932", "57.000004 0.000000 0.000000" );
+SpawnObject( "bldr_Panel_Concrete_Small_1", "4327.709961 383.752014 2980.979980", "-22.000000 -1.000000 9.000010" );
+SpawnObject( "bldr_Panel_Concrete_Small_1", "4326.359863 383.720001 2984.550049", "-19.000000 0.000000 6.000000" );
+SpawnObject( "bldr_Panel_Concrete_Small_1", "4324.549805 383.924988 2983.870117", "-20.000000 0.000000 7.000000" );
+SpawnObject( "bldr_Panel_Concrete_Small_1", "4325.910156 383.992004 2980.290039", "-21.999998 -2.000000 7.000000" );
+SpawnObject( "bldr_misc_concreteblock2_stripes", "4334.629883 385.130005 2990.040039", "67.000000 0.000000 0.000000" );
+SpawnObject( "bldr_Shed_Open_Big_Complete", "4314.029785 388.031006 3039.199951", "-21.999998 0.000000 0.000000" );
+SpawnObject( "bldr_BusStation_wall", "4315.790039 384.669006 3034.000000", "67.000000 0.000000 0.000000" );
+SpawnObject( "bldr_BusStation_wall", "4315.819824 384.644989 3033.939941", "-22.999998 0.000000 0.000000" );
+SpawnObject( "bldr_Statue_Enoch1", "4314.180176 386.174011 3047.520020", "28.999998 0.000000 0.000000" );
+SpawnObject( "bldr_Statue_Enoch1", "4308.799805 386.174011 3045.209961", "-81.999992 0.000000 0.000000" );
+SpawnObject( "bldr_flowers_01", "4308.359863 384.720001 3044.989990", "0.000000 0.000000 0.000000" );
+SpawnObject( "bldr_flowers_01", "4314.669922 384.720001 3047.689941", "29.999998 0.000000 0.000000" );
+SpawnObject( "bldr_flowers_02", "4308.589844 384.820007 3045.889893", "-27.000000 0.000000 0.000000" );
+SpawnObject( "bldr_flowers_02", "4313.910156 384.720001 3048.149902", "-162.999985 0.000000 0.000000" );
+SpawnObject( "bldr_picture_g_02", "4307.240234 385.320007 3046.070068", "26.000000 0.000000 0.000000" );
+SpawnObject( "bldr_picture_f_02", "4305.790039 385.269989 3047.169922", "48.000004 0.000000 0.000000" );
+SpawnObject( "bldr_picture_f", "4304.799805 386.218994 3048.830078", "-109.000000 -88.000015 -179.999985" );
+SpawnObject( "bldr_picture_e_02", "4304.500000 385.220001 3051.080078", "93.000000 0.000000 0.000000" );
+SpawnObject( "bldr_picture_d_02", "4305.299805 385.220001 3053.429932", "122.999992 0.000000 0.000000" );
+SpawnObject( "bldr_picture_d", "4307.040039 386.169006 3055.129883", "149.000000 -89.000046 -0.000009" );
+SpawnObject( "bldr_picture_c_02", "4309.379883 385.170013 3055.830078", "176.000000 0.000000 0.000000" );
+SpawnObject( "bldr_picture_c", "4311.669922 386.218994 3055.429932", "21.999990 90.000000 -0.000009" );
+SpawnObject( "bldr_picture_b_02", "4313.459961 385.269989 3054.229980", "-133.000000 0.000000 0.000000" );
+SpawnObject( "bldr_picture_b", "4314.560059 386.269012 3052.479980", "71.000099 -89.000046 -179.999985" );
+SpawnObject( "bldr_picture_a_05", "4314.859863 385.220001 3050.479980", "-88.000000 0.000000 0.000000" );
+SpawnObject( "bldr_picture_a_04", "4314.410156 385.320007 3048.530029", "-66.000000 0.000000 0.000000" );
